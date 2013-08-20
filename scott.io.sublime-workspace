@@ -29,12 +29,55 @@
 				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact/index.html",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about/index.html",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n        <title>{{ page.title }}</title>\n        <meta name=\"viewport\" content=\"width=device-width\">\n\n        <!-- syntax highlighting CSS -->\n        <link rel=\"stylesheet\" href=\"/css/syntax.css\">\n\n        <!-- Custom CSS -->\n        <link rel=\"stylesheet\" href=\"/css/main.css\">\n\n    </head>\n    <body>\n\n        <div class=\"container\">\n          <div class=\"site\">\n            <div class=\"header\">\n              <h1 class=\"title\"><a href=\"/\">{{ site.name }}</a></h1>\n              <a class=\"extra\" href=\"/\">home</a>\n            </div>\n\n                {{ content }}\n\n          </div>\n        </div> <!-- /container -->\n\n    </body>\n</html>",
+			"file": "_layouts/default.html",
+			"file_size": 776,
+			"file_write_time": 130214407673887582,
+			"settings":
+			{
+				"buffer_size": 775,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 110.0,
+		"height": 135.0,
 		"selected_items":
 		[
 			[
@@ -62,7 +105,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 490.0
+		"width": 498.0
 	},
 	"console":
 	{
@@ -79,6 +122,9 @@
 	},
 	"file_history":
 	[
+		"/D/Dev/sc0tt.io/_posts/2013-08-19-this-is-a-test-post.markdown",
+		"/D/Dev/sc0tt.io/scott.io.sublime-project",
+		"/D/Dev/scottio/_config.yml",
 		"/C/Users/scott_000/AppData/Local/VirtualStore/Program Files (x86)/Sierra/SWAT 4/Content/System/Swat4.ini",
 		"/D/Dev/pyglet/test/helloworld.py",
 		"/C/Users/scott_000/Downloads/css/edurne.min.css",
@@ -244,7 +290,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -266,6 +312,150 @@
 						{
 							"incomplete_sync": null,
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								45
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								290
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contact/index.html",
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "about/index.html",
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								775,
+								775
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
