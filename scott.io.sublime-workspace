@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strlower",
+				"strtolower"
+			],
+			[
+				"_",
+				"__main__"
+			],
+			[
+				"layou",
+				"layout_loader"
+			],
+			[
+				"trac",
+				"track_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"script",
+				"Snippet: <script>"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/scott_000/AppData/Local/VirtualStore/Program Files (x86)/Sierra/SWAT 4/Content/System/Swat4.ini",
+		"/D/Dev/pyglet/test/helloworld.py",
+		"/C/Users/scott_000/Downloads/css/edurne.min.css",
+		"/C/Users/scott_000/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/h1x0",
+		"/C/users/scott_~1/appdata/local/temp/sublime-sftp-browse-1375832979/h1x0/home/scott/phenny3/modules/ttapi.py",
+		"/C/Users/scott_000/Google Drive/Fileserver Cost Analysis.gsheet",
+		"/F/autorun.inf",
+		"/C/users/scott_~1/appdata/local/temp/sublime-sftp-browse-1375833412/h1x0/home/scott/phenny3/modules/turntable.py",
+		"/C/users/scott_~1/appdata/local/temp/sublime-sftp-browse-1375833091/h1x0/home/scott/phenny3/modules/bitcoin.py",
+		"/C/Users/scott_000/Downloads/Unleashed/minecraft/mods/VoxelMods/voxelMap/radicalwhale.net.points",
+		"/C/Users/SCOTT_~1/AppData/Local/Temp/7zO9E1F.tmp/winwheel_1.2.js",
+		"/C/Users/SCOTT_~1/AppData/Local/Temp/7zE6F5C.tmp/main.css",
+		"/C/Users/SCOTT_~1/AppData/Local/Temp/7zO814F.tmp/main.css",
+		"/C/Users/scott_000/AppData/Local/Temp/7zODA1F.tmp/get_determined_prize.php",
+		"/C/Users/scott_000/AppData/Local/Temp/7zOC676.tmp/get_determined_angle.php",
+		"/D/Dev/mealroulette/mealroulette.sublime-project",
+		"/D/Dev/Chrome-Custom-Context-Menu/Chrome-Custom-Context-Menu.sublime-project",
+		"/C/misc/.htaccess",
+		"/D/Dev/Chrome-Custom-Context-Menu/manifest.json",
+		"/D/Dev/Chrome-Custom-Context-Menu/res/js/background.js",
+		"/D/Dev/Chrome-Custom-Context-Menu/res/style.css",
+		"//TOASTER/sda1/.tmp/twonkymedia-config.html",
+		"//TOASTER/sda1/.tmp/db.info",
+		"//TOASTER/sda1/.tmp/twonkymedia-locations-6.db",
+		"//TOASTER/sda1/.tmp/twonky.log",
+		"/H/config.txt",
+		"/C/Program Files (x86)/Cube World/server.cfg",
+		"/D/Dev/Chrome-Custom-Context-Menu/options.html",
+		"/D/Dev/Chrome-Custom-Context-Menu/res/js/options.js",
+		"/C/Users/scott_000/Downloads/ChromeSkel_a-master/fancy-settings/source/index.html",
+		"/C/Users/scott_000/Downloads/ChromeSkel_a-master/fancy-settings/source/css/setting.css",
+		"/C/Users/scott_000/Downloads/ChromeSkel_a-master/fancy-settings/source/css/main.css",
+		"/C/Users/scott_000/Downloads/ChromeSkel_a-master/fancy-settings/source/custom.css",
+		"/C/Users/scott_000/Downloads/ChromeSkel_a-master/fancy-settings/README.md",
+		"/D/Dev/Chrome-Custom-Context-Menu/background.js",
+		"/D/Dev/Chrome-Custom-Context-Menu/settings/index.html",
+		"/D/Dev/Chrome-Custom-Context-Menu/settings/settings.js",
+		"/D/Dev/Chrome-Custom-Context-Menu/settings/manifest.js",
+		"/C/Users/scott_000/Downloads/ChromeSkel_a-master/fancy-settings/LICENSE.txt",
+		"/D/Dev/pythonRDC/pyRDC.sublime-project",
+		"/C/Users/scott_000/Downloads/PokeMMO-Client/PokeMMO.sh",
+		"/C/Users/scott_000/Downloads/PaxChallenge/minecraft/config/NEI.cfg",
+		"/C/Users/scott_000/Downloads/script.xbmc.pandorajson/resources/skins/Alaska/720p/script-pandora.xml",
+		"/C/Users/scott_000/Downloads/PokeMMO-Client/data/strings/strings_en.xml",
+		"/C/Users/scott_000/Downloads/PokeMMO-Client/config/main.properties",
+		"/C/Users/scott_000/Downloads/PokeMMO-Client/config/log4j.dtd",
+		"/C/Users/scott_000/Downloads/PokeMMO-Client/log/errors.log",
+		"/C/Users/scott_000/Downloads/script.xbmc.pandorajson/README.txt",
+		"/C/Users/scott_000/Downloads/script.xbmc.pandorajson/resources/settings.xml",
+		"/C/Users/scott_000/Downloads/script.xbmc.pandorajson/pandagui.py",
+		"/C/Users/scott_000/Downloads/script.xbmc.pandorajson/pandaplayer.py",
+		"/C/Users/scott_000/Downloads/script.xbmc.pandorajson/default.py",
+		"/C/Users/scott_000/Downloads/script.xbmc.pandorajson/resources/skins/Smoke/skin.xml",
+		"/C/Users/scott_000/Downloads/script.xbmc.pandorajson/resources/skins/Alaska/skin.xml",
+		"/D/Dev/Rails/telephone/Gemfile",
+		"/C/Program Files (x86)/Steam/steamapps/common/WormsRevolution/Default.cfg",
+		"/C/Users/scott_000/Downloads/sphinx3-0.8/README",
+		"/C/Users/SCOTT_~1/AppData/Local/Temp/7zO3E7A.tmp/README",
+		"/C/.rnd",
+		"/C/xampp-portable/htdocs/paint/paint.js",
+		"/C/xampp-portable/htdocs/paint/style.css",
+		"/C/xampp-portable/htdocs/paint/index.html",
+		"/C/Users/scott_000/Downloads/paintapp.js",
+		"/C/xampp-portable/apache/conf/httpd.conf",
+		"/C/Users/scott_000/.ssh/id_rsa.pub",
+		"/C/Users/scott_000/.ssh/github_rsa.pub",
+		"/C/Users/scott_000/.ssh/github_rsa",
+		"/C/Users/scott_000/.ssh/id_rsa",
+		"/C/xampp-portable/htdocs/speak/php/includes/head.php",
+		"/C/Users/scott_000/Downloads/redpower.cfg",
+		"/C/xampp-portable/htdocs/speak/php/javascript/dataTable.js",
+		"/C/xampp-portable/htdocs/speak/php/javascript/complete.min.js",
+		"/C/Users/scott_000/Downloads/com.wyse.pocketcloudfree.json",
+		"/C/xampp-portable/htdocs/speak/php/includes/phphead.php",
+		"/C/xampp-portable/htdocs/speak/php/add.php",
+		"/C/xampp-portable/htdocs/speak/php/admin.php",
+		"/C/xampp-portable/htdocs/speak/php/index.php",
+		"/C/xampp-portable/htdocs/speak/php/login.php",
+		"/C/xampp-portable/htdocs/speak/php/logout.php",
+		"/C/xampp-portable/htdocs/speak/php/save.php",
+		"/C/xampp-portable/htdocs/speak/php/update.php",
+		"/C/xampp-portable/htdocs/speak/php/user.php",
+		"/C/xampp-portable/htdocs/speak/php/view.php",
+		"/C/xampp-portable/htdocs/speak/php/controllers/dbExperiment.php",
+		"/C/xampp-portable/htdocs/speak/php/includes/commonLogin.php",
+		"/C/xampp-portable/htdocs/speak/php/javascript/datepicker.js",
+		"/C/xampp-portable/htdocs/speak/php/includes/foot.php",
+		"/C/xampp-portable/htdocs/speak/php/controllers/dbUser.php",
+		"/C/xampp-portable/htdocs/speak/php/controllers/dbConnect.php",
+		"/D/Dev/RDC/pyRDCItem.py",
+		"/D/Dev/RDC/pyRDC.sublime-project",
+		"/D/Dev/RDC/pyRdc.py",
+		"/C/Users/scott_000/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/scott_000/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Scott/Documents/GitHub/TTShuffle/TTShuffle.sublime-project",
+		"/C/Users/scott_000/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Scott/Documents/GitHub/TTShuffle/manifest.json",
+		"/C/Users/Scott/Documents/GitHub/TTShuffle/tts-script.js",
+		"/C/Users/Scott/Documents/GitHub/TTShuffle/tts-style.css",
+		"/C/Users/Scott/Documents/GitHub/TTShuffle/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Scott/Documents/GitHub/MKWTracker/MKTracker.pyw",
+		"/C/Users/Scott/Documents/GitHub/MKWTracker/MKTracker2.pyw",
+		"/C/Users/Scott/Documents/test.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hashlib",
+			"Except",
+			"hashlib",
+			"Unicode-objects must be encoded before hashin",
+			"font",
+			"    ",
+			"__settings__",
+			"dataTable",
+			"    <",
+			"<script language=\"Javascript\" src=\"javascript/jquery.dataTables.min.js\"></script>",
+			"author",
+			"include",
+			"$_SESSION",
+			"echo",
+			"from experiment",
+			"experiment ",
+			"getUsernames",
+			"<?php echo $badForm ? htmlspecialchars($_POST['pass1'], ENT_QUOTES) : ''; ?>",
+			"\"2\"",
+			"viewPerm",
+			"content",
+			"git",
+			"Tkinter.,",
+			"N64"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"Tkinter.E,",
+			"Tkinter.W,"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true
+}
